@@ -25,7 +25,7 @@ msgid "Power Off"
 msgstr "Tắt máy"
 
 msgid "Favorite Apps"
-msgstr "Favorieten"
+msgstr "Yêu thích"
 
 msgid "General"
 msgstr "Algemeen"
